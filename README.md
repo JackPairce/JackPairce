@@ -10,8 +10,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a diverse tech sta
 |--------|-------|
 | 📍 **Location** | Earth 🌍 |
 | 📅 **GitHub Since** | November 2022 |
-| 📦 **Public Repos** | 11 |
-| 🔒 **Private Repos** | 15 |
 | 👥 **Followers** | 1 |
 | 🌟 **Following** | 7 |
 
@@ -42,27 +40,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a diverse tech sta
 
 ## 🚀 Featured Projects
 
-### 🔓 Public Repositories
-
 | Project | Language | Description |
 |---------|----------|-------------|
-| **[JobLite](https://github.com/JackPairce/JobLite)** | Python | CLI job submission tool with CPU affinity control |
 | **[Microservice](https://github.com/JackPairce/Microservice)** | Go | gRPC-based microservice architecture with MySQL |
 | **[Font-Style-Transfer](https://github.com/JackPairce/Font-Style-Transfer)** | Jupyter | Deep learning font style transfer with Docker |
 | **[DocFinder](https://github.com/JackPairce/DocFinder)** | Python | Document search using sentence-transformers |
-| **[watcher-server-demo-](https://github.com/JackPairce/watcher-server-demo-)** | TypeScript | File watcher server demo |
-| **[supaHUB](https://github.com/JackPairce/supaHUB)** | JavaScript | Supabase-powered application |
 | **[MPI_Python](https://github.com/JackPairce/MPI_Python)** | Python | MPI parallel programming implementations |
+| **[Teffa7a](https://github.com/JackPairce/Teffa7a)** | JavaScript | Web application |
 | **[OpenCV](https://github.com/JackPairce/OpenCV)** | Jupyter | Computer vision experiments |
 | **[LANCHAT](https://github.com/JackPairce/LANCHAT)** | JavaScript | Local network chat application |
-
-### 🔒 Private Projects (Highlights)
-- **labosync** (TypeScript) - 1⭐ | Laboratory synchronization tool
-- **truck_connect** (TypeScript) | Logistics/connectivity platform
-- **laravel-template** | Modular Laravel + Vue (Inertia) base template
-- **HistoScope** | Data science project (Jupyter Notebook)
-- **tanafos** (Dart/Flutter) | Mobile application
-- **Quantified-Self-App** (TypeScript) | Personal metrics tracking
 
 ---
 
